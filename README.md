@@ -26,7 +26,7 @@ A modern, responsive portfolio website built with **React.js** and **Tailwind CS
 
 ## 📁 Project Structure
 
-\`\`\`bash
+```
 src/
 ├── components/
 │   ├── Navbar.jsx             # Navigation component
@@ -40,32 +40,32 @@ src/
 ├── App.jsx                    # Main app component
 ├── main.jsx                   # React entry point
 └── index.css                  # Global styles
-\`\`\`
+```
 
 ---
 
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the repository
-\`\`\`bash
+```bash
 git clone <your-repo-url>
 cd portfolio-website
-\`\`\`
+```
 
 ### 2️⃣ Install dependencies
-\`\`\`bash
+```bash
 npm install
-\`\`\`
+```
 
 ### 3️⃣ Start the development server
-\`\`\`bash
+```bash
 npm run dev
-\`\`\`
+```
 
 ### 4️⃣ Build for production
-\`\`\`bash
+```bash
 npm run build
-\`\`\`
+```
 
 ---
 
@@ -150,9 +150,9 @@ This project is open source and available under the **MIT License**.
 
 1. Fork the repository  
 2. Create your feature branch  
-   \`\`\`bash
+   ```bash
    git checkout -b feature/AmazingFeature
-   \`\`\`
+   ```
 3. Commit your changes  
 4. Push to the branch  
 5. Open a pull request  
