@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:opsz@14..32&family=Montserrat:wght@500&family=Roboto:ital,wght@0,100..900;1,100..900&family=Winky+Rough:ital,wght@0,300..900;1,300..900&display=swap');
+
+@import "tailwindcss";
+
+*{
+  font-family: "Roboto", sans-serif;
+}
+.text-outline{
+  -webkit-text-stroke: 1px #fff;
+  color: transparent;
+
+
+
+}
